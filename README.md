@@ -76,7 +76,7 @@ cv2.destroyAllWindows()
 ![272628291-ec7e0880-d7fa-446b-ae52-7e7e0bce53c0](https://github.com/Vaishnavi-saravanan/Edge-Linking-using-Hough-Transformm/assets/118541897/ec3a5f69-455a-4851-9a75-ed94b18983b9)
 
 # Display the result of the Hough transform
-![Uploading 272628305-5744c6ec-2e49-4f6a-aeb8-6d66e47b3931.png…]()
+![272628305-5744c6ec-2e49-4f6a-aeb8-6d66e47b3931](https://github.com/Vaishnavi-saravanan/Edge-Linking-using-Hough-Transformm/assets/118541897/e3b9ae49-a739-4d92-a0ef-65a5d99a1b10)
 
 # Result:
 Thus the program is written with Python and OpenCV to detect lines using Hough transform.
